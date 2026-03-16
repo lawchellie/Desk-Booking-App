@@ -46,3 +46,6 @@ The application allows users to submit desk booking requests through a user-frie
 - Improves workspace utilization
 - Simplifies desk management in shared office environments
 - Provides administrators with control over desk availability
+
+## Screenshots
+Contains images of the app interface
