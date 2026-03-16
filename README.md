@@ -10,7 +10,7 @@ The application allows users to submit desk booking requests through a user-frie
 - PowerApps – Used to design and build the application interface and booking logic.
 
 ## Key Features
-** User Interface (User Page)**
+**User Interface (User Page)**
 
 - The user page provides staff with the ability to create and manage desk reservations. Users can:
 - Create a new desk booking
@@ -18,7 +18,7 @@ The application allows users to submit desk booking requests through a user-frie
 - Book desks for themselves or on behalf of another staff member
 - View their current and previous bookings
 
-** Admin Interface (Admin Page) **
+**Admin Interface (Admin Page)**
 
 - The admin page allows administrators to manage desk availability and booking records. Administrators can:
 - Activate desks after they have been used
